@@ -77,9 +77,9 @@ Web Development | Docker | Azure | C++ Development | C# Development
   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="instagram" height="40">
 </picture></a>
 <a href="https://x.com/vasiliuoleksan1"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=x&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=x&theme=dark">
-  <img src="https://skillicons.dev/icons?i=x&theme=dark" alt="x" height="40">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="twitter" height="40">
 </picture></a>
 </p>
 
