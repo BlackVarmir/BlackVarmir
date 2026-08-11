@@ -9,48 +9,11 @@ I have a huge interest in write coding👩‍💻! Currently studying ⚛️reac
 Web Development | Docker | Azure | C++ Development | C# Development
 
 **Tools:**   
-<p>
-<a href="https://github.com/BlackVarmir"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="vscode" height="40">
-</picture></a>
-<a href="https://www.linkedin.com/in/blackvarmir/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=dark">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="html" height="40">
-</picture></a>
-<a href="https://www.instagram.com/1bv1.ovy/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=dark">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="css" height="40">
-</picture></a>
-<a href="https://x.com/blackvarmir"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="react" height="40">
-</picture></a>
-<a href="https://x.com/blackvarmir"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="js" height="40">
-</picture></a>
-<a href="https://github.com/BlackVarmir"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="git" height="40">
-</picture></a>
-<a href="https://www.instagram.com/1bv1.ovy/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql" height="40">
-</picture></a>
-<a href="https://twitter.com/blackvarmir"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" height="40">
-</picture></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=dark">
+  <img alt="tools" src="https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=dark">
+</picture>
 
 
 
