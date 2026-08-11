@@ -16,7 +16,7 @@ src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning VueJS 
-- 📫 How to reach me: blackvarmir (Twitter, Linkedin) 1bv1.ovy on Instagram
+- 📫 How to reach me: oleksandr-vasyliu-562055417 on Linkedin, vasiliuoleksan1 on X and 1bv1.ovy on Instagram
 - 😄 Pronouns: He/Him
 
 
