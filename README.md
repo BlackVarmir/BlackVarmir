@@ -35,7 +35,7 @@ Web Development | Docker | Azure | C++ Development | C# Development
 
 <p align="center">
   <a href="https://gitfut.com/BlackVarmir?country=ua">
-    <img src="https://gitfut.com/BlackVarmir.png?country=ua" alt="My GitFut card" width="400"/>
+    <img src="https://gitfut.com/BlackVarmir.png?country=ua" alt="My GitFut card" width="100"/>
   </a>
 </p>
 
