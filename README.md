@@ -47,6 +47,14 @@ Web Development | Docker | Azure | C++ Development | C# Development
 </table>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackVarmir/BlackVarmir/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackVarmir/BlackVarmir/output/snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/BlackVarmir/BlackVarmir/output/snake.svg">
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlackVarmir&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
 </p>
 
