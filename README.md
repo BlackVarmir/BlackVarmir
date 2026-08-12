@@ -31,6 +31,21 @@ Web Development | Docker | Azure | C++ Development | C# Development
 <a href="https://x.com/vasiliuoleksan1#gh-light-mode-only"><img src="icons/twitter-light.svg#gh-light-mode-only" height="40" alt="twitter"></a>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackVarmir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackVarmir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BlackVarmir&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlackVarmir&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
+</p>
+
 <!--
 **BlackVarmir/BlackVarmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
