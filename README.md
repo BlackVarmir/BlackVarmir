@@ -21,22 +21,14 @@ Web Development | Docker | Azure | C++ Development | C# Development
 
 
 <p>
-<a href="https://github.com/BlackVarmir">
-  <img src="icons/github-dark.svg#gh-dark-mode-only" height="40" alt="github">
-  <img src="icons/github-light.svg#gh-light-mode-only" height="40" alt="github">
-</a>
-<a href="https://www.linkedin.com/in/oleksandr-vasyliu-562055417/">
-  <img src="icons/linkedin-dark.svg#gh-dark-mode-only" height="40" alt="linkedin">
-  <img src="icons/linkedin-light.svg#gh-light-mode-only" height="40" alt="linkedin">
-</a>
-<a href="https://www.instagram.com/1bv1.ovy/">
-  <img src="icons/instagram-dark.svg#gh-dark-mode-only" height="40" alt="instagram">
-  <img src="icons/instagram-light.svg#gh-light-mode-only" height="40" alt="instagram">
-</a>
-<a href="https://x.com/vasiliuoleksan1">
-  <img src="icons/twitter-dark.svg#gh-dark-mode-only" height="40" alt="twitter">
-  <img src="icons/twitter-light.svg#gh-light-mode-only" height="40" alt="twitter">
-</a>
+<a href="https://github.com/BlackVarmir#gh-dark-mode-only"><img src="icons/github-dark.svg#gh-dark-mode-only" height="40" alt="github"></a>
+<a href="https://github.com/BlackVarmir#gh-light-mode-only"><img src="icons/github-light.svg#gh-light-mode-only" height="40" alt="github"></a>
+<a href="https://www.linkedin.com/in/oleksandr-vasyliu-562055417/#gh-dark-mode-only"><img src="icons/linkedin-dark.svg#gh-dark-mode-only" height="40" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/oleksandr-vasyliu-562055417/#gh-light-mode-only"><img src="icons/linkedin-light.svg#gh-light-mode-only" height="40" alt="linkedin"></a>
+<a href="https://www.instagram.com/1bv1.ovy/#gh-dark-mode-only"><img src="icons/instagram-dark.svg#gh-dark-mode-only" height="40" alt="instagram"></a>
+<a href="https://www.instagram.com/1bv1.ovy/#gh-light-mode-only"><img src="icons/instagram-light.svg#gh-light-mode-only" height="40" alt="instagram"></a>
+<a href="https://x.com/vasiliuoleksan1#gh-dark-mode-only"><img src="icons/twitter-dark.svg#gh-dark-mode-only" height="40" alt="twitter"></a>
+<a href="https://x.com/vasiliuoleksan1#gh-light-mode-only"><img src="icons/twitter-light.svg#gh-light-mode-only" height="40" alt="twitter"></a>
 </p>
 
 <!--
