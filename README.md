@@ -9,11 +9,8 @@ I have a huge interest in write coding👩‍💻! Currently studying ⚛️reac
 Web Development | Docker | Azure | C++ Development | C# Development
 
 **Tools:**   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=dark">
-  <img alt="tools" src="https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=dark">
-</picture>
+![tools](https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=dark#gh-dark-mode-only)
+![tools](https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=light#gh-light-mode-only)
 
 
 
@@ -24,26 +21,22 @@ Web Development | Docker | Azure | C++ Development | C# Development
 
 
 <p>
-<a href="https://github.com/BlackVarmir"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" height="40">
-</picture></a>
-<a href="https://www.linkedin.com/in/oleksandr-vasyliu-562055417/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" height="40">
-</picture></a>
-<a href="https://www.instagram.com/1bv1.ovy/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="instagram" height="40">
-</picture></a>
-<a href="https://x.com/vasiliuoleksan1"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="twitter" height="40">
-</picture></a>
+<a href="https://github.com/BlackVarmir">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark#gh-dark-mode-only" height="40" alt="github">
+  <img src="https://skillicons.dev/icons?i=github&theme=light#gh-light-mode-only" height="40" alt="github">
+</a>
+<a href="https://www.linkedin.com/in/oleksandr-vasyliu-562055417/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark#gh-dark-mode-only" height="40" alt="linkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light#gh-light-mode-only" height="40" alt="linkedin">
+</a>
+<a href="https://www.instagram.com/1bv1.ovy/">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark#gh-dark-mode-only" height="40" alt="instagram">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=light#gh-light-mode-only" height="40" alt="instagram">
+</a>
+<a href="https://x.com/vasiliuoleksan1">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark#gh-dark-mode-only" height="40" alt="twitter">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=light#gh-light-mode-only" height="40" alt="twitter">
+</a>
 </p>
 
 <!--
