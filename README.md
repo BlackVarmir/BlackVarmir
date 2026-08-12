@@ -9,8 +9,8 @@ I have a huge interest in write coding👩‍💻! Currently studying ⚛️reac
 Web Development | Docker | Azure | C++ Development | C# Development
 
 **Tools:**   
-![tools](https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=dark#gh-dark-mode-only)
-![tools](https://skillicons.dev/icons?i=vscode,html,css,react,js,git,mysql,github&theme=light#gh-light-mode-only)
+![tools](icons/tools-dark.svg#gh-dark-mode-only)
+![tools](icons/tools-light.svg#gh-light-mode-only)
 
 
 
@@ -22,20 +22,20 @@ Web Development | Docker | Azure | C++ Development | C# Development
 
 <p>
 <a href="https://github.com/BlackVarmir">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark#gh-dark-mode-only" height="40" alt="github">
-  <img src="https://skillicons.dev/icons?i=github&theme=light#gh-light-mode-only" height="40" alt="github">
+  <img src="icons/github-dark.svg#gh-dark-mode-only" height="40" alt="github">
+  <img src="icons/github-light.svg#gh-light-mode-only" height="40" alt="github">
 </a>
 <a href="https://www.linkedin.com/in/oleksandr-vasyliu-562055417/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark#gh-dark-mode-only" height="40" alt="linkedin">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light#gh-light-mode-only" height="40" alt="linkedin">
+  <img src="icons/linkedin-dark.svg#gh-dark-mode-only" height="40" alt="linkedin">
+  <img src="icons/linkedin-light.svg#gh-light-mode-only" height="40" alt="linkedin">
 </a>
 <a href="https://www.instagram.com/1bv1.ovy/">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark#gh-dark-mode-only" height="40" alt="instagram">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=light#gh-light-mode-only" height="40" alt="instagram">
+  <img src="icons/instagram-dark.svg#gh-dark-mode-only" height="40" alt="instagram">
+  <img src="icons/instagram-light.svg#gh-light-mode-only" height="40" alt="instagram">
 </a>
 <a href="https://x.com/vasiliuoleksan1">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark#gh-dark-mode-only" height="40" alt="twitter">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=light#gh-light-mode-only" height="40" alt="twitter">
+  <img src="icons/twitter-dark.svg#gh-dark-mode-only" height="40" alt="twitter">
+  <img src="icons/twitter-light.svg#gh-light-mode-only" height="40" alt="twitter">
 </a>
 </p>
 
